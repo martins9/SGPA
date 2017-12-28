@@ -10,6 +10,6 @@ public class Principal
 	
 		JDBCExample jdbcexample = new JDBCExample();
 		
-		jdbcexample.informacao();
+		;
 	}
 }
